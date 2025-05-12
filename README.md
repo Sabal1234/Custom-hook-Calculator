@@ -1,10 +1,8 @@
-# React Todo List App
-This is a basic Todo List application built with React. It allows users to:
-- Add new tasks
-- Mark tasks as completed
-- Delete tasks
-## Features
-- Add and remove tasks
-- Mark tasks as completed, the completed task color changed.
+# React Custom Hook Calculator
+This is a basic Custom Hook  calculator application built with React. It allows to:
+- Increment value by 1
+- Decrement Value by 1
+- Reset Value to 0
+
 
 ![Output](/src/assets/Output/Output.png)
