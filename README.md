@@ -4,3 +4,5 @@ This is a basic Custom Hook  calculator application built with React. It allows 
 - Decrement Value by 1
 - Reset Value to 0
 
+
+![Output](/src/assets/Output/Output.png)
